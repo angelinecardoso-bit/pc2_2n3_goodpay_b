@@ -11,7 +11,7 @@ async function intializeLogin() {
         )
 
         if (userValided) {
-            localStorage.setItem('usuarioAtual', userValided)
+            localStorage.setItem('usuarioAtual', JSON.stringify(userValided))
             console.log(userValided.email)
             setTimeout(() => {
                 window.location.href = './dashboard.html'
@@ -22,4 +22,9 @@ async function intializeLogin() {
     } catch (e) {
         console.error('Erro ao buscar os dados:', e)
     }
+}
+
+async function loadUserStorage() {
+    const loadUser = JSON.parse(loadUserStorage.getItem('usuarioAtual'))
+    
 }

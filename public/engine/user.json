@@ -3,24 +3,28 @@
         "id": 1,
         "name": "Victor Icoma",
         "email": "victoricoma@gmail.com",
+        "urlPhoto":"https://avatars.githubusercontent.com/u/31005408?v=4",
         "password": "123456"
     },
     {
         "id": 2,
         "name": "Caio Artrax",
         "email": "caioartrax@gmail.com",
+        "urlPhoto":"https://avatars.githubusercontent.com/u/24300358?v=4",
         "password": "884455"
     },
     {
         "id": 3,
         "name": "Marcio Silva",
         "email": "marciosilva@gmail.com",
+        "urlPhoto":"https://private-user-images.githubusercontent.com/31005408/667147592-a66d4e96-de37-41fd-9014-62421599a6e1.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMxNDQ0MTgsIm5iZiI6MTc5MzE0NDExOCwicGF0aCI6Ii8zMTAwNTQwOC82NjcxNDc1OTItYTY2ZDRlOTYtZGUzNy00MWZkLTkwMTQtNjI0MjE1OTlhNmUxLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAyN1QyMzM1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWY3ZWQ2YzhhMzU4NDZlNzI0NmQ4NjBmOTliMDk4YWFiYmE3YTE5YzhlYzZiMzMwZTJhODFjYzFkZjlmYzBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0._OCvqIaC7oD1Q02gCFm9I6Znd_LCwQeQWW1Y7bhgFzc",
         "password": "654321"
     },
     {
         "id": 4,
-        "name": "Yasmin Oliveira",
-        "email": "yasminoliveira@gmail.com",
+        "name": "Jasmine Franco",
+        "email": "jasminifranco@gmail.com",
+        "urlPhoto":"https://private-user-images.githubusercontent.com/31005408/667147615-d90f24a4-bc94-4fbd-a87e-db2c828e73d8.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMxNDQ0MTgsIm5iZiI6MTc5MzE0NDExOCwicGF0aCI6Ii8zMTAwNTQwOC82NjcxNDc2MTUtZDkwZjI0YTQtYmM5NC00ZmJkLWE4N2UtZGIyYzgyOGU3M2Q4LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAyN1QyMzM1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjlhMzRiZWM3Y2Y1MTQyNDVmOGMwODA0YWMxZTVlOTJmMDhhOGI1YmVjYTQ1MGExYzk5Mjg5NmYwMDA1ZjVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.iHo-ojcWe1cve1pHyW0HOQFqW3Vz3a3c1108Di3hvOA",
         "password": "998877"
     }
 ]
